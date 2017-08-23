@@ -1,2 +1,2 @@
-# testAPI
-RestAPI tests for MongoDB
+# TEST API
+Python Rest API tests for MongoDB
